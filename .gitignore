@@ -1,0 +1,6 @@
+/myapps/__pycache__/
+/.idea/
+
+__pycache__/
+*.py[cod]
+*$py.class
